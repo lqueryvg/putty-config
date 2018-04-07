@@ -24,7 +24,7 @@ Follow these steps if you prefer the pain and glory of doing this by hand.
 
 ### Steps
 
-1. [Open New Session Dialog](#Load-Default-Settings)
+1. [Open New Session Dialog](#Open-New-Session-Dialog)
 1. [Load Default Settings](#Load-Default-Settings)
 1. [Logging](#Logging) (smart logfile name)
 1. [Window](#Window) (size & scrollback)
