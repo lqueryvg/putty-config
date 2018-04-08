@@ -5,16 +5,16 @@ This session can be used as the basis for creating new sessions.
 
 ## Quick Setup
 
-- edit [`default.reg`](Default_Settings.reg), change the first three lines of settings to reflect the correct:
+- edit [`Default_Settings.reg`](Default_Settings.reg), change the first three lines of settings to reflect the correct:
   - log file location
   - typical user name (that you will log in as)
   - private key file (despite the registry name "PublicKeyFile", this **is** the private key not the public)
     - if you don't have a public / private key pair, create one with [PuTTYgen](https://www.ssh.com/ssh/putty/windows/puttygen) (which is supplied with Putty)
-- Import  [`default.reg`](Default_Settings.reg) into the registry (double-click in explorer)
+- Import  [`Default_Settings.reg`](Default_Settings.reg) into the registry (double-click in explorer)
 
 Tips:
 
-- you can manually edit `default.reg` and re-import it later
+- you can manually edit [`Default_Settings.reg`](Default_Settings.reg) and re-import it later
 - delete lines completely if there are certain settings which you don't want to overwrite
 - change the session name to create multiple sets of defaults or to import sets of settings into existing sessions
 
