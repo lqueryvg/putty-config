@@ -7,9 +7,9 @@ This session can be used as the basis for creating new sessions.
 
 - edit [`default.reg`](Default_Settings.reg), change the first three lines of settings to reflect the correct:
   - log file location
-    - typical user name (that you will log in as)
-    - private key file (despite the registry name, this *is* the private key not the public)
-      - if you don't have a public / private key, create one with [PuTTYgen](https://www.ssh.com/ssh/putty/windows/puttygen)
+  - typical user name (that you will log in as)
+  - private key file (despite the registry name "PublicKeyFile", this **is** the private key not the public)
+    - if you don't have a public / private key pair, create one with [PuTTYgen](https://www.ssh.com/ssh/putty/windows/puttygen) (which is supplied with Putty)
 - Import  [`default.reg`](Default_Settings.reg) into the registry (double-click in explorer)
 
 Tips:
@@ -24,57 +24,61 @@ Follow these steps if you prefer the pain and glory of doing this by hand.
 
 ### Steps
 
-1. [Open New Session Dialog](#Open-New-Session-Dialog)
-1. [Load Default Settings](#Load-Default-Settings)
-1. [Logging](#Logging) (smart logfile name)
-1. [Window](#Window) (size & scrollback)
-1. [Appearance](#Appearance) (font and cursor)
-1. [Selection](#Selection) (mouse selection style)
-1. [Colours](#Colours)
-1. [Data](#Data) (terminal type and user name)
-1. [Auth](#Auth) (ssh private key)
-1. [X11 Forwarding](#X11-Forwarding)
+1. [Open New Session Dialog](#open-new-session-dialog)
+1. [Load Default Settings](#load-default-settings)
+1. [Logging](#logging) (smart logfile name)
+1. [Window](#window) (size & scrollback)
+1. [Appearance](#appearance) (font and cursor)
+1. [Selection](#selection) (mouse selection style)
+1. [Colours](#colours)
+1. [Data](#data) (terminal type and user name)
+1. [Auth](#auth) (ssh private key)
+1. [X11 Forwarding](#x11-forwarding)
 1. [Save (**IMPORTANT**)](#Save-Defaults)
 
 ### Open New Session Dialog
 
-![Open New Session Dialog](pictures/NewSession.PNG)
+![Open New Session Dialog](pictures/01_NewSession.PNG)
 
 ### Load Default Settings
 
-![Load Default Settings](pictures/LoadDefaultSettings.png)
+![Load Default Settings](pictures/02_LoadDefaultSettings.png)
 
 ### Logging
 
 - Click `Browse` to set directory.
 - Use cookies to set a unique filename for every session, e.g.: `C:\Users\John\Documents\putty_logs\&Y&M&D_&T_&H.log`
 
-![Logging](pictures/Logging.png)
+![Logging](pictures/defaults/01_Logging.png)
 
 ### Window
 
-![Window](pictures/Window.png)
+![Window](pictures/defaults/02_Window.png)
 
 ### Appearance
 
-![Appearance](pictures/Appearance.png)
+![Appearance](pictures/defaults/03_Appearance.png)
 
 ### Selection
 
-![Selection](pictures/Selection.png)
+![Selection](pictures/defaults/04_Selection.png)
 
 ### Colours
 
-![Colours](pictures/Colours.png)
+![Colours](pictures/defaults/05_Colours.png)
 
 ### Data
 
-![Data](pictures/Data.png)
+![Data](pictures/defaults/06_Data.png)
+
+### Auth
+
+![Auth](pictures/defaults/07_Auth.png)
 
 ### X11 Forwarding
 
-![X11](pictures/X11.png)
+![X11](pictures/defaults/08_X11.png)
 
 ### Save Defaults
 
-![Save Defaults](pictures/SaveDefaults.png)
+![Save Defaults](pictures/defaults/09_SaveDefaults.png)
