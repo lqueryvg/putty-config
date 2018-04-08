@@ -21,3 +21,9 @@ Instructions plus [registry file](Default_Settings.reg) to help setup Windows Pu
 1. [setup session defaults](setup_defaults.md)
 1. [create a new session](create_session.md)
 1. [create a desktop icon](create_icon.md)
+
+## Modifying a Session
+
+Unfortunately this is not intuitive.
+
+See [here](modify_session.md).

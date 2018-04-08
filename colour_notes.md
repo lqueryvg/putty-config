@@ -26,3 +26,18 @@ xterm/rxvt      | Hex       | Putty Name         | Decimal
 `*.color14:`    | `#5FAFAF` | ANSI Cyan Bold     |  `95 175 175`
 `*.color7:`     | `#6C6C6C` | ANSI White         | `108 108 108`
 `*.color15:`    | `#FFFFFF` | ANSI White Bold    | `255 255 255`
+
+## Things to test
+
+When tweaking colours, it's easy to think you've got things just right, only to find out further down the line that your colour scheme makes a certain application unusable.
+
+Things to try:
+
+- `ls` in various directories:
+  - make sure you reload `dircolors` before testing, e.g.:
+        - `eval $(dircolors ~/.dircolors); ls /dev /etc ~`
+- `vi /etc/passwd`
+- `vimdiff /etc/passwd /etc/group`
+- `git diff`
+- `git log --graph`
+- `nmtui` (CentOS)
