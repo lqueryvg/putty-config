@@ -34,7 +34,7 @@ Follow these steps if you prefer the pain and glory of doing this by hand.
 1. [Data](#data) (terminal type and user name)
 1. [Auth](#auth) (ssh private key)
 1. [X11 Forwarding](#x11-forwarding)
-1. [Save (**IMPORTANT**)](#Save-Defaults)
+1. [Save (**IMPORTANT**)](#save-defaults)
 
 ### Open New Session Dialog
 

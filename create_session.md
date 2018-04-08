@@ -1,11 +1,12 @@
 # Creating a new Putty session
 
-1. [Open New Session Dialog](#load-default-settings)
+1. [Open New Session Dialog](#open-new-session-dialog)
 1. [Load an existing session](#load-an-existing-session)
 1. [Set host and port](#set-host-and-port)
-1. [Set Window Title](#set-Window-Title)
-1. [Check Username](#check-Username)
-1. [**IMPORTANT** Save the new session](#save-the-new-session)
+1. [Set Window Title](#set-window-title)
+1. [Check Username](#check-username)
+1. [Save as a new session](#save-as-a-new-session)
+
 
 ## Open New Session Dialog
 
