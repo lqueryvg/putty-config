@@ -1,4 +1,3 @@
-
 # Window -> Colours
 
 Pastel shades of the 16 default ANSI colours are easier on the eye.

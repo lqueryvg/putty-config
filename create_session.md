@@ -7,7 +7,6 @@
 1. [Check Username](#check-username)
 1. [Save as a new session](#save-as-a-new-session)
 
-
 ## Open New Session Dialog
 
 ![Open New Session Dialog](pictures/01_NewSession.PNG)
