@@ -30,7 +30,7 @@ The session which you loaded should already be selected.
 
 ## Counter Intuitive
 
-Changing a session in Putty is counter intuitive for the following reasons:
+Changing a session in Putty is counter intuitive:
 
-1. The intuitive approach would be to choose `Change Settings...` from the Putty menu. This unfortunately leads you to dialog with a restricted set of options and is probably not where you want to be.
+1. The intuitive approach would be to choose `Change Settings...` from the Putty menu. This unfortunately leads you to a dialog with a restricted set of options and is probably not what you want.
 2. Even when you choose the correct option (`New Session...`) it is **very easy** to forget to both load **and** save the correct session.

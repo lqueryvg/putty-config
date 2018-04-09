@@ -24,6 +24,4 @@ Instructions plus [registry file](Default_Settings.reg) to help setup Windows Pu
 
 ## Modifying a Session
 
-Unfortunately this is not intuitive.
-
 See [here](modify_session.md).

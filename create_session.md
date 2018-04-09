@@ -24,6 +24,7 @@ Usually you will load the `Default Settings` session as the basis for a new sess
 ## Set Window Title
 
 Bizarrely, to set the window title, you'll find it under `Behaviour`.
+Note: better to skip this step and set the title dynamically from the shell.
 
 ![Set window title](pictures/create_session/02_Behaviour.png)
 
