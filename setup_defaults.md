@@ -76,7 +76,7 @@ If you want to manually tweak the colours, do it here...
 
 Enabling compression improves performance with X11 forwarding over Virtualbox NAT interfaces.
 
-![Data](pictures/defaults/Data.png)
+![Data](pictures/defaults/SSH.png)
 
 ### Auth
 
