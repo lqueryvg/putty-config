@@ -49,36 +49,43 @@ Follow these steps if you prefer the pain and glory of doing this by hand.
 - Click `Browse` to set directory.
 - Use cookies to set a unique filename for every session, e.g.: `C:\Users\John\Documents\putty_logs\&Y&M&D_&T_&H.log`
 
-![Logging](pictures/defaults/01_Logging.png)
+![Logging](pictures/defaults/Logging.png)
 
 ### Window
 
-![Window](pictures/defaults/02_Window.png)
+![Window](pictures/defaults/Window.png)
 
 ### Appearance
 
-![Appearance](pictures/defaults/03_Appearance.png)
+![Appearance](pictures/defaults/Appearance.png)
 
 ### Selection
 
-![Selection](pictures/defaults/04_Selection.png)
+![Selection](pictures/defaults/Selection.png)
 
 ### Colours
 
-![Colours](pictures/defaults/05_Colours.png)
+If you want to manually tweak the colours, do it here...
+![Colours](pictures/defaults/Colours.png)
 
 ### Data
 
-![Data](pictures/defaults/06_Data.png)
+![Data](pictures/defaults/Data.png)
+
+## SSH Compression
+
+Enabling compression improves performance with X11 forwarding over Virtualbox NAT interfaces.
+
+![Data](pictures/defaults/Data.png)
 
 ### Auth
 
-![Auth](pictures/defaults/07_Auth.png)
+![Auth](pictures/defaults/Auth.png)
 
 ### X11 Forwarding
 
-![X11](pictures/defaults/08_X11.png)
+![X11](pictures/defaults/X11.png)
 
 ### Save Defaults
 
-![Save Defaults](pictures/defaults/09_SaveDefaults.png)
+![Save Defaults](pictures/defaults/SaveDefaults.png)

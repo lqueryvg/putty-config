@@ -11,6 +11,7 @@ Instructions plus [registry file](Default_Settings.reg) to help setup Windows Pu
 - 10,000 lines of scrollback history
 - log all printable output to unique session files
 - X11 forwarding
+- SSH compression enabled (good for Virtualbox NAT)
 - host & port for ssh connection
 - window title
 - desktop icon for easy launch
